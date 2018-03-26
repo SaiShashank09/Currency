@@ -1,0 +1,10 @@
+Windows:
+ platform : "windows"
+ browser : "chrome"
+ version : "46.0"
+ 
+OS X:
+ platform : "Mac OS X 10.9"
+ browser : "Chrome"
+ version : "31"
+ 
